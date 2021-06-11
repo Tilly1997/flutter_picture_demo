@@ -49,6 +49,8 @@ flutter:
       - assets/robot1.png
       - assets/SportAdd.png
       - assets/SportLess.png
+      - assets/b01.png
+      - assets/b1.png
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
